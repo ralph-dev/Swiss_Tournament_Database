@@ -1,6 +1,6 @@
 # Swiss_Tournament_Database
 <br />
-Important Files:
+<strong> Important Files: </strong>
 <br />
 1) tournament.py - (Python Code which includes Queries and Joins)
 <br />
@@ -9,7 +9,7 @@ Important Files:
 3) tournament_test.py - (Python External Unit Test Cases for tournament.py)
 <br />
 <br />
-How To Run:
+<strong> How To Run: </strong>
 <br />
 Open Vagrant once installed (https://www.vagrantup.com/downloads.html)
 <br />
@@ -21,12 +21,12 @@ Run Command ($ python tournament_test.py)
 <br />
 If your output looks like this, you have passed all the tests.
 <br />
-1. Old matches can be deleted.
-2. Player records can be deleted.
-3. After deleting, countPlayers() returns zero.
-4. After registering a player, countPlayers() returns 1.
-5. Players can be registered and deleted.
-6. Newly registered players appear in the standings with no matches.
-7. After a match, players have updated standings.
-8. After one match, players with one win are paired.
-Success!  All tests pass!
+1. Old matches can be deleted. <br />
+2. Player records can be deleted. <br />
+3. After deleting, countPlayers() returns zero. <br />
+4. After registering a player, countPlayers() returns 1. <br />
+5. Players can be registered and deleted. <br />
+6. Newly registered players appear in the standings with no matches. <br />
+7. After a match, players have updated standings. <br />
+8. After one match, players with one win are paired. <br />
+Success!  All tests pass! <br />
