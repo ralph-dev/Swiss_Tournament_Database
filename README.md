@@ -13,11 +13,12 @@
 <br />
 Open Vagrant once installed (https://www.vagrantup.com/downloads.html)
 <br />
-Run Command ($ cd "Location where files are downloaded {Location of tournament.sql file}")
+<i> Run Command </i> ($ cd "Location where files are downloaded {Location of tournament.sql file}")
 <br />
-Run Command ($ psql)
+<i> Run Command </i> ($ psql)
 <br />
-Run Command ($ python tournament_test.py)
+<i> Run Command </i> ($ python tournament_test.py)
+<br />
 <br />
 If your output looks like this, you have passed all the tests.
 <br />
